@@ -26,7 +26,7 @@ const allProducts = [
   { id: 8, name: 'Converse Chuck Taylor', image: 'https://cloviscalcados.vteximg.com.br/arquivos/ids/1036233-1024-1024/Tenis-Masculino-Chuck-Taylor-Converse-All-Star-CT00040007-0320004_001-02.jpg?v=638364710577700000', price: 250, category: 'Tênis' },
   { id: 9, name: 'Boné Nike Aba Reta', image: 'https://images.tcdn.com.br/img/img_prod/1150285/bone_mst_281_1_b909645315b840b62fd488ca0dbafe07.jpg', price: 89.9, priceDiscount: 69.9, category: 'Bonés' },
   { id: 10, name: 'Camiseta Adidas Essentials', image: 'https://images.mont.ink/mockups/51173/Marrom_3697018.png', price: 120, priceDiscount: 99.9, category: 'Camisetas' },
-  { id: 11, name: 'Calça Puma Training', image: '/calca-puma.png', price: 180, priceDiscount: 149.9, category: 'Calças' },
+  { id: 11, name: 'Calça Adidas Training', image: '/calca-puma.png', price: 180, priceDiscount: 149.9, category: 'Calças' },
   { id: 12, name: 'Headphone JBL Live 770', image: 'https://fastshopbr.vtexassets.com/arquivos/ids/498166/0-JBLLIVE770PTO-PRD-1500-1.jpg?v=638702103996270000', price: 599.9, priceDiscount: 499.9, category: 'Headphones' },
 ]
 

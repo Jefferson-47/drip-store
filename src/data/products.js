@@ -151,7 +151,7 @@ export const products = [
   },
   {
     id: 11,
-    name: 'Calça Puma Training',
+    name: 'Calça Adidas Training',
     image: '/calca-puma.png',
     price: 180,
     priceDiscount: 149.9,
