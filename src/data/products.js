@@ -61,7 +61,7 @@ export const products = [
   {
     id: 5,
     name: '/asics-gel-kayano.png',
-    image: '/src/assets/asics-gel-kayano.png',
+    image: '/asics-gel-kayano.png',
     price: 75,
     priceDiscount: 65,
     category: 'Tênis',
@@ -152,7 +152,7 @@ export const products = [
   {
     id: 11,
     name: 'Calça Puma Training',
-    image: '/src/assets/calcas.png',
+    image: '/calca-puma.png',
     price: 180,
     priceDiscount: 149.9,
     category: 'Calças',
