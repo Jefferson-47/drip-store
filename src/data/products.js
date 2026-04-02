@@ -47,7 +47,7 @@ export const products = [
   {
     id: 4,
     name: 'New Balance 574',
-    image: '/src/assets/new-balance-574.png',
+    image: '/new-balance-574.png',
     priceDiscount: 120,
     category: 'Tênis',
     brand: 'New Balance',
@@ -60,7 +60,7 @@ export const products = [
   },
   {
     id: 5,
-    name: 'Asics Gel-Kayano',
+    name: '/asics-gel-kayano.png',
     image: '/src/assets/asics-gel-kayano.png',
     price: 75,
     priceDiscount: 65,
